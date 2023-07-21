@@ -3,3 +3,4 @@ commit
 Gitstatus
 rm
 gitstatus
+x
