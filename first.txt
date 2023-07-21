@@ -2,3 +2,4 @@ Git
 commit
 Gitstatus
 rm
+gitstatus
